@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(
+    rgb(39, 94, 175),
+    rgb(12, 124, 87),
+    rgb(44, 91, 179)
+    );
+    height: 100vb;
+    color: aqua;
+    font-family: sans-serif;
+
+}
+
+h1 {
+    color: rgb(3, 3, 46);
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+
+p {
+    font-size: 22px;
+    font-family: sans-serif;
+    color: rgb(201, 223, 223);
+
+}
+
+a {
+    color: aliceblue;
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: rgb(179, 2, 2);
+
+}
